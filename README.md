@@ -6,7 +6,7 @@ ML model for lupus detection using gene expression + causal analysis
 This project detects Systemic Lupus Erythematosus (SLE) using gene expression data and explores causal relationships between immune biomarkers.
 
 ## Dataset
-GSE65391 (link)
+GSE65391 https://drive.google.com/file/d/1o-RjVudbzh8Wv3meLbSqcNRtTo8nX5eB/view?usp=sharing
 
 ## Steps
 - Data preprocessing
@@ -15,4 +15,4 @@ GSE65391 (link)
 - Causal graph analysis
 
 ## Results
-- Accuracy: XX%
+- Accuracy: 94%

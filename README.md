@@ -15,4 +15,4 @@ GSE65391 https://drive.google.com/file/d/1o-RjVudbzh8Wv3meLbSqcNRtTo8nX5eB/view?
 - Causal graph analysis
 
 ## Results
-- Accuracy: 94%
+- Accuracy: 97%

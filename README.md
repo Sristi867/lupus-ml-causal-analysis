@@ -16,3 +16,5 @@ GSE65391 https://drive.google.com/file/d/1o-RjVudbzh8Wv3meLbSqcNRtTo8nX5eB/view?
 
 ## Results
 - Accuracy: 97%
+- Initial accuracy: 94% (in Lupus_Detection)
+- On increasing precision of threshold from 0.5 to 0.7 new accuracy is 97% (in Lupus_Detection(1))
